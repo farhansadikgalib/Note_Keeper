@@ -1,4 +1,4 @@
-# note_keeper
+# Note Keeper
 
  Notepad application with firebase & sqlite.
 
